@@ -4,4 +4,6 @@ El publico objetivo nos ayuda a entender a nuestros clientes potenciales, es el 
 
 ---
 
+![Publico objetivo](/Images/Target Audience.jpg)
+
 ---
