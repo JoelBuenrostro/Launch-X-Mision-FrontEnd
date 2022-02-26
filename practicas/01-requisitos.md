@@ -6,16 +6,15 @@
 - Levantamiento del requerimiento detallado
 - Diseño de la arquitectura de solucion
 
-
 ## Descripcion general del requerimiento
 
-| Descripcion   | General |
-| ------------- | --------------------- |
-| Proyecto      | Abogabot |
-| Fecha         | Viernes 18 2022 |
+| Descripcion   | General                          |
+| ------------- | -------------------------------- |
+| Proyecto      | Abogabot                         |
+| Fecha         | Viernes 18 2022                  |
 | Solicitud     | Juan Rodrigo Martinez Plascencia |
-| Dependencia   | LaunchX |
-| Responsable   | Joel Buenrostro |
+| Dependencia   | LaunchX                          |
+| Responsable   | Joel Buenrostro                  |
 
 ## Fase de formalizacion
 
@@ -40,7 +39,6 @@ Tipo de desarrollo
 - [ ] Escritorio
 - [ ] Movil
 - [ ] Servicio web
-- [ ]
 
 Lenguaje
 
@@ -57,3 +55,5 @@ Lenguaje
 | - | ---------- | ------------ | --------------- | --------------- |
 | 1 | Semana 01  | Despegue     | 14 Febrero 2022 | 20 Febrero 2022 |
 | 2 | Semana 02  | Primer vuelo | 21 Febrero 2022 | 27 Febrero 2022 |
+
+---
