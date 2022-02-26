@@ -1,5 +1,7 @@
 # Creacion de buyer persona
 
+---
+
 El buyer persona es la reprsentacion de nuestro cliente ideal, para este caso, nuestra pagina Abogabot
 
 | Buyer                                     | Persona                             |

@@ -6,6 +6,8 @@
 - Levantamiento del requerimiento detallado
 - Diseño de la arquitectura de solucion
 
+---
+
 ## Descripcion general del requerimiento
 
 | Descripcion   | General                          |
