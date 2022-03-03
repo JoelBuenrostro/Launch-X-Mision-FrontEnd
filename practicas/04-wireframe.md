@@ -4,6 +4,6 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 
 ---
 
-![wireframe](/Images/wireframe.png)
+![wireframe](/images/wireframe.png)
 
 ---
